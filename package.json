@@ -1,0 +1,27 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "= Learning JavaScript, 3rd Edition == Chapter 2: JavaScript Development Tools",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamDeng/es6_study.git"
+  },
+  "keywords": [
+    "learning",
+    "javascript"
+  ],
+  "author": "Ethan Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamDeng/es6_study/issues"
+  },
+  "homepage": "https://github.com/NamDeng/es6_study#readme"
+}
