@@ -1,8 +1,13 @@
-# npm 디버그 기록
+# npm debug
 *.log*
 
-# 프로젝트 의존성
+# modules
 node_modules
+package-lock.json
 
-#임시 파일
+# temp file
 *.tmp
+
+# exclude transcompile
+public/dist
+dist
